@@ -1,0 +1,24 @@
+[
+   {
+      "q": "This place doesn't exist",
+      "format":"json"
+   },
+   {
+      "q":"South+Corea",
+      "country":"France",
+      "format":"json"
+   },
+   {
+      "q": null,
+      "format": false
+   },
+   {
+      "q":"USA",
+      "format":"mp4"
+   },
+   {
+      "lat": 24.898907,
+      "lon": 81.454356
+   }
+
+]
