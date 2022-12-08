@@ -5,15 +5,15 @@ Data driven тесты для 2 api - search и reverse.
 
 Для запуска всех тестов использовать команду:
 
-    pytest -s -v python -m pytest [...]
+    pytest -v python -m pytest [...]
 
 Для запуска конкретного модуля с тестами использовать команду:
 
-    pytest -s -v ./test_*.py
+    pytest -v ./test_*.py
   
 Для запуска тестов с пометкой "xfail" использовать команду:
 
-    pytest -s -v -m "xfail" ./test_*.py
+    pytest -v -m "xfail" ./test_*.py
 
 Для запуска определенного теста из модуля использовать команду:
 
